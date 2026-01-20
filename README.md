@@ -22,21 +22,21 @@ practical implementation of secure coding, networking, and malware detection con
 ## 📸 Screenshots
 
 **Main Application Window**  
-![Main Window](screenshots/mainwindow.png)
+![Main Application Window](screenshots/mainwindow.png)
 
 **File Scanning Example**  
-![File Scanning](screenshots/filescaning.png)
+![File Scanning Example](screenshots/filescaning.png)
 
 **URL Scanning Example**  
-![URL Scanning](screenshots/urlscaning.png)
+![URL Scanning Example](screenshots/urlscaning.png)
 
 **Scan History View**  
-![Scan History](screenshots/scannhistory.png)
+![Scan History View](screenshots/scannhistory.png)
 
 **Report Generation / Results**  
-![Report Generation](screenshots/reportsgeneratings.png)
+![Report Generation / Results](screenshots/reportsgeneratings.png)
 
-**Network Checker Interface** (Left-aligned for emphasis)  
+**Network Checker Interface**  
 ![Network Checker Interface](screenshots/networkchecker.png)
 
 ## 🛠️ Tech Stack
