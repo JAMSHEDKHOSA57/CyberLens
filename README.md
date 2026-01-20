@@ -29,17 +29,28 @@ practical implementation of secure coding, networking, and malware detection con
 
 ---
 
-## 📂 Project Structure
-CyberLens/
-├── src/ # Application source code
-├── ui/ # Qt UI files
-├── resources/ # Icons and assets
-├── screenshots/ # Application screenshots
-├── CMakeLists.txt # Build configuration
-└── README.md
-screenshots/
-└── "C:\Users\user\Pictures\Screenshots\Screenshot 2026-01-20 121806.png"
+## 📁 Project Structure
 
+```text
+CyberLens/
+├── CMakeLists.txt          # Build configuration (CMake)
+├── README.md               # This file
+├── main.cpp                # Application entry point
+├── mainwindow.h
+├── mainwindow.cpp
+├── mainwindow.ui           # Qt Designer UI file
+├── filescanner.h
+├── filescanner.cpp
+├── networkchecker.h
+├── networkchecker.cpp
+├── urlanalyzer.h           # Note: was urianalyzer in earlier messages
+├── urlanalyzer.cpp
+├── reportgenerator.h
+├── reportgenerator.cpp
+├── historymanager.h
+├── historymanager.cpp
+└── screenshots/            # Folder for images shown in README
+    └── "C:\Users\user\Pictures\Screenshots\Screenshot 2026-01-20 121806.png"
 
 🎯 Learning Outcomes
 
