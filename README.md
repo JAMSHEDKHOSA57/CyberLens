@@ -19,6 +19,22 @@ practical implementation of secure coding, networking, and malware detection con
 - Lightweight and fast desktop application  
 
 ---
+## 📸 Screenshots
+
+**Main Application Window**  
+![Main Window](https://raw.githubusercontent.com/JAMSHEDKHOSA57/CyberLens/main/mainwindow.png)
+
+**File Scanning Example**  
+![File Scanning](filescaning.png)
+
+**URL Scanning Example**  
+![URL Scanning](urlscaning.png)
+
+**Scan History View**  
+![Scan History](scannhistory.png)
+
+**Report Generation / Results**  
+![Report Generation](reportsgeneratings.png)
 
 ## 🛠️ Tech Stack
 
