@@ -23,6 +23,8 @@ practical implementation of secure coding, networking, and malware detection con
 
 **Main Application Window**  
 ![Main Window](https://raw.githubusercontent.com/JAMSHEDKHOSA57/CyberLens/main/mainwindow.png)
+**Network Checker (Left-Aligned)**  
+<img src="networkchecker.png" alt="Network Checker" width="600" align="left" style="margin-right: 20px; border: 1px solid #ddd; border-radius: 8px;">
 
 **File Scanning Example**  
 ![File Scanning](filescaning.png)
