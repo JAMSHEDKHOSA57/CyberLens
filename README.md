@@ -96,6 +96,7 @@ Improved malware detection logic
 👤 Author
 
 Muhammad Jamshed
+
 Cybersecurity Student
 
 GitHub:https://github.com/JAMSHEDKHOSA57
