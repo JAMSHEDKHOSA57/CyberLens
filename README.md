@@ -48,29 +48,6 @@ practical implementation of secure coding, networking, and malware detection con
 
 ---
 
-## 📁 Project Structure
-
-CyberLens/
-├── CMakeLists.txt              # Build configuration (CMake)
-├── README.md                   # This file
-├── LICENSE                     # MIT License
-├── main.cpp                    # Application entry point
-├── mainwindow.ui               # Qt Designer UI file
-│
-└── src/                        # All source code files
-├── mainwindow.h
-├── mainwindow.cpp
-├── filescanner.h
-├── filescanner.cpp
-├── networkchecker.h
-├── networkchecker.cpp
-├── urlanalyzer.h           # (formerly urianalyzer)
-├── urlanalyzer.cpp
-├── reportgenerator.h
-├── reportgenerator.cpp
-├── historymanager.h
-└── historymanager.cpp
-
 
 🎯 Learning Outcomes
 
@@ -117,9 +94,9 @@ Real-time URL monitoring
 Improved malware detection logic
 
 👤 Author
-
 Muhammad Jamshed
 Cybersecurity Student
+
 GitHub:https://github.com/JAMSHEDKHOSA57
 
 
