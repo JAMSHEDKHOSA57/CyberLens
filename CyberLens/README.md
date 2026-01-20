@@ -22,22 +22,22 @@ practical implementation of secure coding, networking, and malware detection con
 ## 📸 Screenshots
 
 **Main Application Window**  
-![Main Window](https://raw.githubusercontent.com/JAMSHEDKHOSA57/CyberLens/main/mainwindow.png)
-**Network Checker (Left-Aligned)**  
-![Main Window](networkchecker.png)
+![Main Application Window](screenshorts/mainwindow.png)
 
 **File Scanning Example**  
-![File Scanning](filescaning.png)
+![File Scanning Example](screenshorts/filescaning.png)
 
 **URL Scanning Example**  
-![URL Scanning](urlscaning.png)
+![URL Scanning Example](screenshorts/urlscaning.png)
 
 **Scan History View**  
-![Scan History](scannhistory.png)
+![Scan History View](screenshorts/scannhistory.png)
 
 **Report Generation / Results**  
-![Report Generation](reportsgeneratings.png)
+![Report Generation / Results](screenshorts/reportsgeneratings.png)
 
+**Network Checker Interface**  
+![Network Checker Interface](screenshorts/networkchecker.png)
 ## 🛠️ Tech Stack
 
 - **Programming Language:** C++ (C++17 or later)  
