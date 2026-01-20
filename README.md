@@ -94,6 +94,7 @@ Real-time URL monitoring
 Improved malware detection logic
 
 👤 Author
+
 Muhammad Jamshed
 Cybersecurity Student
 
