@@ -7,7 +7,7 @@ for potential security threats. The project focuses on detecting malicious URLs
 CyberLens is built primarily for educational and personal cybersecurity use and demonstrates
 practical implementation of secure coding, networking, and malware detection concepts.
 
----
+--
 
 ## ✨ Features
 
