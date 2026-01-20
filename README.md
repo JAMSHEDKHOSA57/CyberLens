@@ -50,26 +50,52 @@ practical implementation of secure coding, networking, and malware detection con
 
 ## 📁 Project Structure
 
-```text
 CyberLens/
-├── CMakeLists.txt          # Build configuration (CMake)
-├── README.md               # This file
-├── main.cpp                # Application entry point
+├── CMakeLists.txt          
+├── README.md               
+├── main.cpp               
 ├── mainwindow.h
 ├── mainwindow.cpp
-├── mainwindow.ui           # Qt Designer UI file
+├── mainwindow.ui           
 ├── filescanner.h
 ├── filescanner.cpp
 ├── networkchecker.h
 ├── networkchecker.cpp
-├── urlanalyzer.h           # Note: was urianalyzer in earlier messages
+├── urlanalyzer.h
 ├── urlanalyzer.cpp
 ├── reportgenerator.h
 ├── reportgenerator.cpp
 ├── historymanager.h
 ├── historymanager.cpp
-└── screenshots/            # Folder for images shown in README
-    └── "C:\Users\user\Pictures\Screenshots\Screenshot 2026-01-20 121806.png"
+
+
+🎯 Learning Outcomes
+
+Practical experience with cybersecurity concepts
+
+Secure coding practices in C++
+
+URL threat analysis techniques
+
+File hashing and integrity checking
+
+Desktop application development using Qt
+
+🚀 Future Enhancements
+
+Integration with online threat intelligence APIs
+
+PDF/CSV report export
+
+Real-time URL monitoring
+
+Improved malware detection logic
+
+👤 Author
+
+Muhammad Jamshed
+Cybersecurity Student
+GitHub:https://github.com/JAMSHEDKHOSA57
 
 🎯 Learning Outcomes
 
