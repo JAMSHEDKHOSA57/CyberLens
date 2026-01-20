@@ -51,23 +51,48 @@ practical implementation of secure coding, networking, and malware detection con
 ## 📁 Project Structure
 
 CyberLens/
-├── CMakeLists.txt          
-├── README.md               
-├── main.cpp               
+├── CMakeLists.txt              # Build configuration (CMake)
+├── README.md                   # This file
+├── LICENSE                     # MIT License
+├── main.cpp                    # Application entry point
+├── mainwindow.ui               # Qt Designer UI file
+│
+└── src/                        # All source code files
 ├── mainwindow.h
 ├── mainwindow.cpp
-├── mainwindow.ui           
 ├── filescanner.h
 ├── filescanner.cpp
 ├── networkchecker.h
 ├── networkchecker.cpp
-├── urlanalyzer.h
+├── urlanalyzer.h           # (formerly urianalyzer)
 ├── urlanalyzer.cpp
 ├── reportgenerator.h
 ├── reportgenerator.cpp
 ├── historymanager.h
-├── historymanager.cpp
+└── historymanager.cpp
 
+
+🎯 Learning Outcomes
+
+Practical experience with cybersecurity concepts
+
+Secure coding practices in C++
+
+URL threat analysis techniques
+
+File hashing and integrity checking
+
+Desktop application development using Qt
+
+🚀 Future Enhancements
+
+Integration with online threat intelligence APIs
+
+PDF/CSV report export
+
+Real-time URL monitoring
+
+Improved malware detection logic
 
 🎯 Learning Outcomes
 
@@ -97,30 +122,4 @@ Muhammad Jamshed
 Cybersecurity Student
 GitHub:https://github.com/JAMSHEDKHOSA57
 
-🎯 Learning Outcomes
 
-Practical experience with cybersecurity concepts
-
-Secure coding practices in C++
-
-URL threat analysis techniques
-
-File hashing and integrity checking
-
-Desktop application development using Qt
-
-🚀 Future Enhancements
-
-Integration with online threat intelligence APIs
-
-PDF/CSV report export
-
-Real-time URL monitoring
-
-Improved malware detection logic
-
-👤 Author
-
-Muhammad Jamshed
-Cybersecurity Student
-GitHub:https://github.com/JAMSHEDKHOSA57
