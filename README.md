@@ -1,4 +1,4 @@
-# 🔍 CyberLens
+ CyberLens
 
 CyberLens is a modern desktop cybersecurity application designed to scan URLs and files
 for potential security threats. The project focuses on detecting malicious URLs
