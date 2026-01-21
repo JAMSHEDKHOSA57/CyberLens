@@ -21,6 +21,8 @@ practical implementation of secure coding, networking, and malware detection con
 ---
 ## Screenshots
 
+## Screenshots
+
 **Main Application Window**  
 ![Main Application Window](screenshorts/mainwindow.png)
 
