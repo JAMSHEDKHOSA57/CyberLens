@@ -28,28 +28,6 @@ practical implementation of secure coding, networking, and malware detection con
 
 ---
 
-## 📁 Project Structure
-
-```text
-CyberLens/
-├── CMakeLists.txt         
-├── README.md              
-├── main.cpp               
-├── mainwindow.h
-├── mainwindow.cpp
-├── mainwindow.ui         
-├── filescanner.h
-├── filescanner.cpp
-├── networkchecker.h
-├── networkchecker.cpp
-├── urlanalyzer.h          
-├── urlanalyzer.cpp
-├── reportgenerator.h
-├── reportgenerator.cpp
-├── historymanager.h
-├── historymanager.cpp
-"
-
 🎯 Learning Outcomes
 
 Practical experience with cybersecurity concepts
