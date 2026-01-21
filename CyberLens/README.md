@@ -19,27 +19,6 @@ practical implementation of secure coding, networking, and malware detection con
 - Lightweight and fast desktop application  
 
 ---
-## Screenshots
-
-## Screenshots
-
-**Main Application Window**  
-![Main Application Window](screenshorts/mainwindow.png)
-
-**File Scanning Example**  
-![File Scanning Example](screenshorts/filescanning.png)
-
-**URL Scanning Example**  
-![URL Scanning Example](screenshorts/urlscanning.png)
-
-**Scan History View**  
-![Scan History View](screenshorts/scannhistory.png)
-
-**Report Generation / Results**  
-![Report Generation / Results](screenshorts/reportsgeneratings.png)
-
-**Network Checker Interface**  
-![Network Checker Interface](screenshorts/networkchecker.png)
 ## 🛠️ Tech Stack
 
 - **Programming Language:** C++ (C++17 or later)  
@@ -53,24 +32,23 @@ practical implementation of secure coding, networking, and malware detection con
 
 ```text
 CyberLens/
-├── CMakeLists.txt          # Build configuration (CMake)
-├── README.md               # This file
-├── main.cpp                # Application entry point
+├── CMakeLists.txt         
+├── README.md              
+├── main.cpp               
 ├── mainwindow.h
 ├── mainwindow.cpp
-├── mainwindow.ui           # Qt Designer UI file
+├── mainwindow.ui         
 ├── filescanner.h
 ├── filescanner.cpp
 ├── networkchecker.h
 ├── networkchecker.cpp
-├── urlanalyzer.h           # Note: was urianalyzer in earlier messages
+├── urlanalyzer.h          
 ├── urlanalyzer.cpp
 ├── reportgenerator.h
 ├── reportgenerator.cpp
 ├── historymanager.h
 ├── historymanager.cpp
-└── screenshots/            # Folder for images shown in README
-    └── "C:\Users\user\Pictures\Screenshots\Screenshot 2026-01-20 121806.png"
+"
 
 🎯 Learning Outcomes
 
