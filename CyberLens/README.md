@@ -19,16 +19,16 @@ practical implementation of secure coding, networking, and malware detection con
 - Lightweight and fast desktop application  
 
 ---
-## 📸 Screenshots
+## Screenshots
 
 **Main Application Window**  
 ![Main Application Window](screenshorts/mainwindow.png)
 
 **File Scanning Example**  
-![File Scanning Example](screenshorts/filescaning.png)
+![File Scanning Example](screenshorts/filescanning.png)
 
 **URL Scanning Example**  
-![URL Scanning Example](screenshorts/urlscaning.png)
+![URL Scanning Example](screenshorts/urlscanning.png)
 
 **Scan History View**  
 ![Scan History View](screenshorts/scannhistory.png)
